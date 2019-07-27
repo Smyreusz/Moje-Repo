@@ -1,0 +1,3 @@
+Pullowanie - œciaganie popraek z zewnetrznego repozytorium ( cos jakby moj github)
+Pushowanie - (odwrotnosc) wypychanie moich zmian do serwera
+Commit - dodanie zmian aktualnych do mojego repozytorium lokalnego na dysku 
